@@ -42,8 +42,8 @@
 DEEM is an exploration of using diffusion models as the eyes of multi-modal large language models, with the goal of eliminating potential biases in different visual encoders from a vision-centric perspective. We hope that DEEM can bring some thinking to the multimodal community, whether the unbiased diffusion model can replace the traditional visual encoder and become the second unified multimodal structure besides self-regression.
 
 ## 🔥 Update
-
-- [02/10/2025]🔥DEEM is selected as Spotlight
+- [25/6/2025]🔥 GenHancer: Imperfect Generative Models are Secretly Strong Vision-Centric Enhancers is accepted by ICCV 2025, which further proves that diffusion feedback can help understand
+- [02/10/2025]🔥 DEEM is selected as Spotlight
 - [01/22/2025]🔥Two paper are accepted by ICLR 2025 (online diffusion feedback method for DEEM and offline diffusion feedback method for DIVA (Diffusion Feedback Helps CLIP See Better))
 - [07/21/2024]🔥DEEM is coming! We release the [code](https://github.com/RainBowLuoCS/DEEM), [models](https://github.com/RainBowLuoCS/DEEM), and [data](https://github.com/RainBowLuoCS/DEEM) for DEEM!
 - [05/24/2024]🔥DEEM is coming! We release the [paper](https://arxiv.org/abs/2405.15232) for DEEM!
